@@ -1,0 +1,16 @@
+Projenin Genel Akışı (Veri Madenciliği + Mekânsal Analiz)
+
+Veri Keşfi (EDA) – Kalp hastalığı ölüm oranlarının eyalet ve ilçe bazında dağılımı
+
+Veri Temizleme ve Birleştirme – Sosyoekonomik göstergelerle birleştirme (örneğin gelir, eğitim, yoksulluk)
+
+Cinsiyet / Irk / Bölge Analizleri – Alt gruplar arası farkların incelenmesi
+
+Mekânsal Analiz (GIS) – Shapefile ile ilçe haritalarına entegre etme
+
+Modelleme (Veri Madenciliği) – Mortaliteyi etkileyen faktörleri bulma (örneğin regresyon, korelasyon, kümeleme)
+
+Sonuç & Raporlama – Bulguların görselleştirilmesi, yorumlanması ve sunum dosyası
+
+------------------------------------------------------------------------------------
+
